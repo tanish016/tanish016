@@ -1,4 +1,4 @@
-<div style="text-align: center; background-image: url('https://images.unsplash.com/photo-1605379399642-870262d3d051?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8ZGV2ZWxvcGVyfGVufDB8fDB8fHww'); background-size: cover; padding: 50px; color: white;">
+<div style="text-align: center; background-image: url('https://images.unsplash.com/photo-1605379399642-870262d3d051?q=80&w=2106&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'); background-size: cover; padding: 50px; color: white;">
   <h1 align="center">Hi 👋, I'm Tanish</h1>
   <h3 align="center">A passionate frontend developer from India</h3>
 </div>

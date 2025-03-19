@@ -1,6 +1,6 @@
 <div style="text-align: center; background-image: url('https://example.com/your-image.jpg'); background-size: cover; padding: 50px; color: white;">
-  <h1>Hi 👋, I'm Tanish</h1>
-  <h3>A passionate frontend developer from India</h3>
+  <h1 align="center">Hi 👋, I'm Tanish</h1>
+  <h3 align="center">A passionate frontend developer from India</h3>
 </div>
 
 
